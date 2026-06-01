@@ -24,3 +24,6 @@ Hints — reveals the number's parity and which half of the range it falls in
 Progress bar — turns from green → yellow → red as chances deplete
 Scoring — rewards fewer guesses with higher points
 Session tracker — tracks total score and win rate across rounds
+
+<img width="482" height="650" alt="image" src="https://github.com/user-attachments/assets/846bc9e4-647c-49d7-9396-dfe4245a4ad6" />
+
